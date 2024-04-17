@@ -4,7 +4,7 @@
 <h3 align="center">Also I have my <a href="https://vk.com/daloshka_bl0g" target="_blank">blog</h3>
 
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://i.pinimg.com/originals/21/a2/df/21a2dfa0f99039250f8d94a33aa7a2cb.gif" alt="Here is a little bit about me!">
 
 <br />
 

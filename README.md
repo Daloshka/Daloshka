@@ -5,9 +5,3 @@
 
 <br/>
 <img src="https://i.pinimg.com/originals/21/a2/df/21a2dfa0f99039250f8d94a33aa7a2cb.gif" alt="Here is a little bit about me!" width="100%">
-
-<br />
-
-> **GIF loading a little slow? You can drink a cup of ☕ first**.
-
-<br/>
